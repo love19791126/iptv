@@ -1,4 +1,4 @@
-央视,#genre#
+央视频道,#genre#
 CCTV-1_综合,https://pi.0472.org/live/cctv1.m3u8?token=240411
 CCTV-2_财经,https://pi.0472.org/live/cctv2.m3u8?token=240411
 CCTV-3_综艺,https://pi.0472.org/live/cctv3.m3u8?token=240411
@@ -33,14 +33,14 @@ CCTV世界地理,https://pi.0472.org/live/sjdl.m3u8?token=240411
 CCTV高尔夫网球,https://pi.0472.org/live/gefwq.m3u8?token=240411
 CCTV央视台球,https://pi.0472.org/live/ystq.m3u8?token=240411
 CCTV卫生健康,https://pi.0472.org/live/wsjk.m3u8?token=240411
+国际频道,#genre#
 CGTN英语,https://pi.0472.org/live/cgtn.m3u8?token=240411
 CGTN纪录,https://pi.0472.org/live/cgtnjl.m3u8?token=240411
 CGTN西语,https://pi.0472.org/live/cgtne.m3u8?token=240411
 CGTN法语,https://pi.0472.org/live/cgtnf.m3u8?token=240411
 CGTN阿语,https://pi.0472.org/live/cgtna.m3u8?token=240411
 CGTN俄语,https://pi.0472.org/live/cgtnr.m3u8?token=240411
-
-卫视,#genre#
+卫视频道,#genre#
 北京卫视,https://pi.0472.org/live/bjws.m3u8?token=240411
 东方卫视,https://pi.0472.org/live/dfws.m3u8?token=240411
 天津卫视,https://pi.0472.org/live/tjws.m3u8?token=240411
