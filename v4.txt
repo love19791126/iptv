@@ -17,12 +17,6 @@ CCTV-14_少儿,https://epg.pw/stream/e612c1be0b8832e50b0d86abb0cc7d739c887b30cb2
 CCTV-15_音乐,https://epg.pw/stream/b073033456c32571a66260da45336ed4c827471795a9647ca93f283715fc1db4.m3u8
 CCTV-16_奥林匹克,https://epg.pw/stream/4400cceef6d547822140edc75c1d69285ecaa840efd715f4df580d04e7c00e3e.m3u8
 CCTV-17_农业农村,https://epg.pw/stream/29204b8956b8b47b2e00cb57afa195f11e9e8d52dd6326de7f8edaef3fb21d1f.m3u8
-国际频道,#genre#
-CGTN英语,https://epg.pw/stream/adbb9c7d93cfce44bcdb1240d8e67a7638ae0a74e6dbe3a8024b0af2e87ea474.m3u8
-CGTN纪录,https://epg.pw/stream/6d31012f0dae6a9ab8a4621864b037e0efda62a4a79f9d7790257bf7eac495ee.m3u8
-CGTN西语,https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8
-CGTN法语,https://epg.pw/stream/2f197066dc5f656f844a84d3af3c3f05a55cf9fd6e3c5c74ebb6693e3897ad07.m3u8
-CGTN俄语,https://epg.pw/stream/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8
 卫视频道,#genre#
 北京卫视,https://epg.pw/stream/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8
 北京生活,https://epg.pw/stream/91664c3255fc3b9a327e5fa77c1148f1ccf6b43b84be012f84ec127c577145af.m3u8
