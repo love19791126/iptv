@@ -1,6 +1,6 @@
 央视频道,#genre#
-CCTV-1,https://epg.pw/stream/039be3079ab37bd1fe868f6992922a7fecdd7fe591a7ff7629968aef0341460c.m3u8
-CCTV-2,https://epg.pw/stream/df533bc2427ac82957ccf8e9bcb9706fd8b095581e28146416de172d70b65dc0.m3u8
+CCTV-1_综合,https://epg.pw/stream/039be3079ab37bd1fe868f6992922a7fecdd7fe591a7ff7629968aef0341460c.m3u8
+CCTV-2_财经,https://epg.pw/stream/df533bc2427ac82957ccf8e9bcb9706fd8b095581e28146416de172d70b65dc0.m3u8
 CCTV-3_综艺,https://epg.pw/stream/44cca69be0608a658ece734b92ece61bd0aea56c9970dc3cf2e2d866df4fa541.m3u8
 CCTV-4_国际,https://epg.pw/stream/e883b241b7e6be61d2659dd68b1d538f0dc881bae104df44b9a6f8323b6234c9.m3u8
 CCTV-5_体育,https://epg.pw/stream/6564631769f81f8aa98bf2e5a5417a99627a02e15b0dfeaa5ac3aa499f676922.m3u8
