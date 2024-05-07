@@ -57,10 +57,6 @@ https://epg.pw/stream/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e
 https://epg.pw/stream/9583a6cddbaf5f732564978bc22cecb76770106e18e003ad3ac6a9c20d3148f9.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="卫视频道",厦门卫视 
 https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.m3u8
-#EXTINF:-1 tvg-name="廈門衛視" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="綜合",[SD]厦门卫视@@1
-https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.m3u8
-#EXTINF:-1 tvg-name="廈門衛視" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg" group-title="綜合",[SD]厦门卫视[ipv6]
-https://epg.pw/stream/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="卫视频道",广东卫视 
 https://epg.pw/stream/2d599a92595f6e3defa6324326c0378034e5c3b40d1fb5adb08f71b4f205dbf4.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg" group-title="卫视频道",广西卫视 
@@ -70,7 +66,7 @@ https://epg.pw/stream/2abb7c7b1f1e080daba8f7e8256e96cbea4dc3a2919beccbdf008d8189
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="卫视频道",新疆卫视 
 https://epg.pw/stream/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg" group-title="卫视频道",东南卫视 
-https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
+https://epg.pw/stream/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="卫视频道",江苏卫视 
 https://epg.pw/stream/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg" group-title="卫视频道",江西卫视 
