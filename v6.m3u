@@ -111,13 +111,11 @@ https://epg.pw/stream/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648
 https://epg.pw/stream/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.m3u8
 #EXTINF:-1 tvg-name="CGTN-英文" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="国际频道",CGTN-英文 
 https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
-#EXTINF:-1 tvg-name="CGTN-英文" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="国际频道",CGTN-英文 
-https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
 #EXTINF:-1 tvg-name="CGTN-记录" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="国际频道",CGTN-记录 
 https://epg.pw/stream/79383fa4f6857b64bb7418ac37eb40194a0f6363fdddc1cd55b4d9e01e15b3e4.m3u8
 #EXTINF:-1 tvg-name="CGTN-西语" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002125587039_56.jpg" group-title="国际频道",CGTN-西语 
 https://epg.pw/stream/3300d8e65d60f5702c59a0500b53b4e983a9dacc51d08fcbb1ce50c1bdc490fa.m3u8
-#EXTINF:-1 tvg-name="CGTN-法语" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg" group-title="国际频道",CGTN-西语 
+#EXTINF:-1 tvg-name="CGTN-法语" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg" group-title="国际频道",CGTN-法语 
 https://epg.pw/stream/2f197066dc5f656f844a84d3af3c3f05a55cf9fd6e3c5c74ebb6693e3897ad07.m3u8
 #EXTINF:-1 tvg-name="CGTN-俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="国际频道",CGTN-俄語 
 https://epg.pw/stream/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8
