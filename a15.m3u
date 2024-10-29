@@ -26,5 +26,4 @@ http://tvbox6.icu/tv/migu.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 http://tvbox6.icu/tv/migu.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
- 
-http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://219.159.194.143:8181/tsfile/live/1021_1.m3u8
